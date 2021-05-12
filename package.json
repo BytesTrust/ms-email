@@ -30,7 +30,7 @@
         "mongoose-unique-validator": "^2.0.3",
         "morgan": "^1.9.1",
         "node-polyglot": "^2.4.0",
-        "nodemailer": "^6.4.2",
+        "nodemailer": "^6.4.16",
         "normalize-mongoose": "^0.0.1",
         "pug": "^2.0.4",
         "rest-api-errors": "^1.2.1",
